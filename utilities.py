@@ -1,9 +1,3 @@
-"""
-Open AI Gym FetchReach-v1
-Nick Kaparinos
-2021
-"""
-
 import time
 import warnings
 from os import listdir, makedirs
