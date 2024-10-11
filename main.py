@@ -1,9 +1,3 @@
-"""
-Open AI Gym FetchReach-v1
-Nick Kaparinos
-2021
-"""
-
 import pickle
 import gym
 import tianshou as ts
