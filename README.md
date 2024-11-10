@@ -15,6 +15,11 @@ This project uses a Soft Actor-Critic (SAC) algorithm to train an agent to solve
 - **Logging**: Tracks training performance using Tensorboard, and video recordings of agent performance are saved periodically.
 - **Neural Networks**: Actor and Critic networks have customizable hidden layers, with parameters optimized using Adam.
 
+## 👨‍💻 The Stack
+<div align="center">
+<img src= "https://tech-orbit.wontory.dev/api?title=FetchReach&tech=Python,Git,TensorFlow,Google%20Colab&size=500&duration=20" width="500">
+</div>
+
 ## Setup and Installation
 
 1. Clone the repository and navigate to the project folder:
